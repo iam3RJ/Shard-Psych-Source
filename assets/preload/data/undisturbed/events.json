@@ -1,0 +1,34 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": null,
+		"player1": "baserj",
+		"player2": "shard",
+		"player3": null,
+		"events": [
+			[
+				72000,
+				[
+					[
+						"Change Character",
+						"0",
+						"rj"
+					],
+					[
+						"Change Character",
+						"1",
+						"allseer"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 160,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Undisturbed"
+	}
+}

@@ -1,0 +1,35 @@
+{
+	"storyName": "Bonuses",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "cave",
+	"weekBefore": "week1",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"shard",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Calamity Boss Mode",
+			"allseer",
+			[
+				34,
+				51,
+				68
+			]
+		],
+		[
+			"Undisturbed",
+			"shard",
+			[
+				34,
+				51,
+				68
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Week 2"
+}

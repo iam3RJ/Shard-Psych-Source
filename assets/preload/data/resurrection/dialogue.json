@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "rjportraitfinale",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Shard is no more. His lifeless body floats off into the depths of space."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rjportraitfinale",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I used my energy to shield the planet from most of the damage he and I could've caused. "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rjportraitfinale",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Clearly not all of it though."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rjportraitfinale",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Your loved one met the same fate as the Earth's moon. "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rjportraitfinale",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Luckily for the both of you, my power doesn't simply fade away that easily."
+		}
+	]
+}

@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "rjportrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I gotta say, I'm pretty impressed. Not everyone has the guts to stand up to a crystalline god."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rjportrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Buuuuut don't get ahead of yourself."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rjportrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I've been giving you a small amount of my power from a distance so you can take him on."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rjportrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You really thought you could just survive in space, huh?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rjportrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Anyway, I'm RJ. Shard came here looking for me, but you seem to have pissed him off enough to get his attention."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rjportrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ending him right now would be no fun, so I'll just give you some more power instead. Go nuts."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rjportrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "And don't worry about the girl. I warped her somewhere safe, so don't hold back."
+		}
+	]
+}

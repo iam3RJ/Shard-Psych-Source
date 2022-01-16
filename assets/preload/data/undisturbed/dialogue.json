@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "shardportraitundisturbed",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "So you finally decided to show your face."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rjportraitundisturbed",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well I would've been here a few seconds sooner, but I had to rid us of any potential distractions."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "shardportraitundisturbed",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Distractions you say?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rjportraitundisturbed",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah. There were two kids who almost wandered in here. I simply warped them to the other side of the planet."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "shardportraitundisturbed",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You and your concern for mortals angers me. No matter. You should know why I'm here."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rjportraitundisturbed",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah I sure do. I also know that you have some nerve showing your face here in my galaxy."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "shardportraitundisturbed",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "This entire universe will soon cease to exist. Your death is something I will see through to the end."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rjportraitundisturbed",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Then enough small talk. Let us begin."
+		}
+	]
+}

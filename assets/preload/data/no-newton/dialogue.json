@@ -1,0 +1,25 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "shardportrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "The view is much better up here, don't you think?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "shardportrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It's funny. A mortal like you couldn't even begin to fathom my power."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "shardportrait",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You are not the one I came to this realm to fight, but I'll play with you for a little longer."
+		}
+	]
+}

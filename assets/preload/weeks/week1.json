@@ -1,0 +1,44 @@
+{
+	"songs": [
+		[
+			"Prismatic",
+			"shard",
+			[ 146, 113, 253 ]
+		],
+		[
+			"No Newton",
+			"shard",
+			[ 146, 113, 253 ]
+		],
+		[
+			"Calamity",
+			"allseer",
+			[ 146, 113, 253 ]
+		],
+		[
+			"Deities",
+			"allseer",
+			[ 146, 113, 253 ]
+		],
+		[
+			"Resurrection",
+			"purpbf",
+			[ 146, 113, 253 ]
+		]
+	],
+
+	"weekCharacters": [
+		"shard",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "cave",
+
+	"storyName": "Crystal Clear",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
